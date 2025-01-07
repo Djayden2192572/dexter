@@ -1,0 +1,90 @@
+# Blender3D MTL File: sh2.blend1.blend
+# Material Count: 8
+newmtl Material.006_Dexter_M_Dexter_Morgan_head.dd
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd Dexter_Morgan_head.dds
+
+
+newmtl Material_Dexter_Morga_Dexter_Morgan_head.dd
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd Dexter_Morgan_head.dds
+
+
+newmtl Material.002_Dexter_M_Dexter_Morgan_head.dd
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd Dexter_Morgan_head.dds
+
+
+newmtl Material.004_Dexter_M_Dexter_Morgan_clothes
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd Dexter_Morgan_clothes.dds
+
+
+newmtl Material.001_Dexter_M_Dexter_Morgan_clothes
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd Dexter_Morgan_clothes.dds
+
+
+newmtl Material.007_Ray_Liot_Teeth.dds
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Teeth.dds
+
+
+newmtl Material.005_Dexter_M_Dexter_Morgan_head.dd
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.085334 0.085334 0.085334
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd Dexter_Morgan_head.dds
+
+
+newmtl Material.003_Dexter_M_Dexter_Morgan_clothes
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd Dexter_Morgan_clothes.dds
+
+
