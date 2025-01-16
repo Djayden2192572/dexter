@@ -5,6 +5,7 @@ using UnityEngine;
 public class Jensier : MonoBehaviour
 {
     public float speed;
+    public float rotateSpeed;
     public float jumpForce; // Add a separate variable for jump force.
     private Rigidbody rb;
 
@@ -20,19 +21,19 @@ public class Jensier : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.W))
         {
-            transform.position += transform.forward * speed * Time.deltaTime;
+            transform.position += transform.right * speed * Time.deltaTime;
         }
         if (Input.GetKey(KeyCode.S))
         {
-            transform.position += -transform.forward * speed * Time.deltaTime;
+            transform.position += -transform.right * speed * Time.deltaTime;
         }
         if (Input.GetKey(KeyCode.D))
         {
-            transform.Rotate(transform.up * speed * Time.deltaTime);
+            transform.Rotate(transform.up * rotateSpeed * Time.deltaTime);
         }
         if (Input.GetKey(KeyCode.A))
         {
-            transform.Rotate(transform.up * -speed * Time.deltaTime);
+            transform.Rotate(transform.up * -rotateSpeed * Time.deltaTime);
         }
 
         if (Input.GetKeyDown(KeyCode.Space) && IsGrounded())
