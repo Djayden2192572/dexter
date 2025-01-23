@@ -36,7 +36,7 @@ public class Jensier : MonoBehaviour
             transform.Rotate(transform.up * -rotateSpeed * Time.deltaTime);
         }
 
-        if (Input.GetKeyDown(KeyCode.Space) && IsGrounded())
+        if (Input.GetKey(KeyCode.Space) && IsGrounded())
         {
             print("aangeroept");
             rb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
