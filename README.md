@@ -1,2 +1,1 @@
-# dexter
- 
+# Dextermania: the game
